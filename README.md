@@ -28,7 +28,6 @@ tested on my PC, then moved it into a CubeIDE project.
 - Internal temperature sensor read through ADC once per second
 
 ## UART commands (115200, 8N1)
-## UART commands (115200, 8N1)
 - `SET TEMP|GAS|VIB value` : inject a value for testing
 - `STATUS` : show all channels, faults, latch
 - `RESET` : clear the latch (only if safe)
