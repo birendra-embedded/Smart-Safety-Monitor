@@ -11,7 +11,6 @@ I'm a fresher, so I built it step by step: first the logic in plain C
 tested on my PC, then moved it into a CubeIDE project.
 
 ## Current status
-## Current status
 - Firmware complete and builds with 0 errors and 0 warnings (about 17.7 KB flash, 2.2 KB RAM)
 - Core safety logic verified with assert-based unit tests on PC
 - Hardware validation on NUCLEO-F103RB with real sensors: planned
