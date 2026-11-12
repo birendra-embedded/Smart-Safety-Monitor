@@ -61,5 +61,6 @@ open the virtual COM port at 115200 and type HELP.
 - Event log
 - Hardware test results and a demo video
 
-- ## Author
+
+Author:-
 Birendra Kumar Sah
